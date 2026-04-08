@@ -19,8 +19,8 @@
   <a href="https://www.linkedin.com/in/omkar-babar-a4816a316/?skipRedirect=true" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="mailto:omkarbabar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:omkarbabar1212000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
