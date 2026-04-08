@@ -32,7 +32,7 @@
 ### ⚙️ CI/CD & Version Control:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,git,github"/> <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github,sonarqube"/> <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
 </p>
 
 ---
