@@ -5,18 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=omkarb-ops&label=Profile%20views&color=0e75b6&style=flat" alt="omkarb-ops" />
 </p>
 
-- 🔭 I'm currently working on **CI/CD Automation & Cloud Infrastructure**
-- 🌱 I'm currently learning **Advanced Kubernetes & AWS**
-- 💬 Ask me about **DevOps, Docker, Kubernetes, Terraform, AWS**
-- 📫 How to reach me: **omkarbabar@gmail.com**
-
+🔭 **About Me**
+- 🛠️ 3 years of experience in DevOps & IT
+- ⚙️ Specializing in CI/CD Automation & Container Orchestration
+- ☁️ AWS Infrastructure with Terraform
+- 🐍 Bash & Python scripting to eliminate manual toil
+- 🚀 Passionate about automating everything!
 ---
 
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/omkar-babar-a4816a316/?skipRedirect=true" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:omkarbabar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
