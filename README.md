@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Babar</h1>
-<h3 align="center">DevOps Engineer | CI/CD • Docker • K8s • Terraform • AWS</h3>
+<h3 align="center">Cloud and DevOps Engineer |Github Actions Certified | git/github | Docker | Kubernetes | python | shell | AWS cloud (3x Certified) |Terraform | Ansible |</h3>
 
 ---
 
