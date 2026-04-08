@@ -31,12 +31,12 @@
 
 ### ⚙️ CI/CD & Version Control:
 
+### ⚙️ CI/CD & Version Control:
+
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github"/>
 </p>
+<img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
 
 ---
 
