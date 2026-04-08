@@ -66,7 +66,7 @@
 ### ☁️ Cloud Platform (AWS):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg width="50" height="50""/>
 </p>
 
 ---
