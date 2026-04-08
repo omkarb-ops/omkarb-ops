@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Babar</h1>
-<h3 align="center">Cloud and DevOps Engineer |Github Actions Certified | git/github | Docker | Kubernetes | python | shell | AWS cloud (3x Certified) |Terraform | Ansible |</h3>
-
+<h3 align="center">Cloud and DevOps Engineer |Github Actions Certified | git/github | Docker | Kubernetes | python | shell | AWS cloud (3x Certified) |Terraform </h3>
+📫 How to reach me: dev.piyushmishra@gmail.com
 ---
 
 🔭 **About Me**
