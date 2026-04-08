@@ -71,9 +71,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 💻 Most Used Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarb-ops&show_icons=true&theme=dark" alt="omkarb-ops" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarb-ops&theme=dark" alt="omkarb-ops" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarb-ops&layout=compact&theme=dark"/>
 </p>
