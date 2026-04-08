@@ -41,10 +41,10 @@
 
 ---
 
-### 🏗️ Infrastructure as Code:
+### 🌩️ Cloud & Infrastructure:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform"/>
+  <img src="https://skillicons.dev/icons?i=terraform,aws"/>
 </p>
 
 ---
@@ -53,14 +53,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,python"/>
-</p>
-
----
-
-### ☁️ Cloud Platform (AWS):
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
