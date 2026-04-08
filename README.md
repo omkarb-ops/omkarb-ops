@@ -5,12 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=omkarb-ops&label=Profile%20views&color=0e75b6&style=flat" alt="omkarb-ops" />
 </p>
 
-🔭 **About Me**
-- 🛠️ 3 years of experience in DevOps & IT
+###🔭 **About Me**
+
 - ⚙️ Specializing in CI/CD Automation & Container Orchestration
 - ☁️ AWS Infrastructure with Terraform
 - 🐍 Bash & Python scripting to eliminate manual toil
 - 🚀 Passionate about automating everything!
+- 
 ---
 
 ### 🔗 Connect with me:
@@ -65,7 +66,7 @@
 ### ☁️ Cloud Platform (AWS):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws"/>
+  <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </p>
 
 ---
