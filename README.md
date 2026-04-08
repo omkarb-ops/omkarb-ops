@@ -66,13 +66,7 @@
 ### ☁️ Cloud Platform (AWS):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg width="50" height="50""/>
+  <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
-
-### 💻 Most Used Languages:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarb-ops&layout=compact&theme=dark"/>
-</p>
