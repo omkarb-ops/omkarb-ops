@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omkar Babar</h1>
-<h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+***
+<h3 align="center">A passionate Cloud DevOps Engineer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarb-ops&label=Profile%20views&color=0e75b6&style=flat" alt="omkarb-ops" />
-</p>
-
-###🔭 **About Me**
-
-- ⚙️ Specializing in CI/CD Automation & Container Orchestration
-- ☁️ AWS Infrastructure with Terraform
-- 🐍 Bash & Python scripting to eliminate manual toil
+### 🔭 About Me
+- ⚙️ Talks about **CI/CD, Docker, Kubernetes, Terraform & AWS**
 - 🚀 Passionate about automating everything!
-- 
+- 📫 Reach me at: **omkarbabar1212000@gmail.com**
 ---
 
 ### 🔗 Connect with me:
