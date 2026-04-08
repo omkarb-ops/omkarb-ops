@@ -22,6 +22,9 @@
   <a href="mailto:omkarbabar1212000@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  <a href="https://instagram.com/your-instagram-username">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 </p>
 
 ---
